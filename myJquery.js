@@ -1,4 +1,4 @@
-
+//丐中丐 jQuery
 
 function jQuery (dom) {
     return new jQuery.prototype.init(dom)

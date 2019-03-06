@@ -1,3 +1,4 @@
+//封装ajax
 function ajax(type, url, val, callback, e) {
     var xhr,
         e = e || true;

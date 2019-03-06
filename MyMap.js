@@ -1,3 +1,4 @@
+// 模拟Es6 map
 function MyMap(arr) {
     this.init();
 

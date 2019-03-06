@@ -1,3 +1,5 @@
+// 模拟es6 promise
+
 function myPromise(fn) {
     if (typeof fn !== 'function') {
         throw Error(`Promise resolver ${fn} is not a function`)
